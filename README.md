@@ -1,0 +1,3 @@
+Asteroids is a 1979 multidirectional shooter video game developed and published by Atari, Inc. for arcades. It was released by Taito and Sega in Japan. The player controls a spaceship in an asteroid field which is periodically traversed by flying saucers. The object of the game is to shoot and destroy the asteroids and saucers while avoiding colliding with either or being hit by the saucers' counterfire. The game becomes more difficult as the number of asteroids increases.
+-wikipedia
+<img width="691" height="478" alt="image" src="https://github.com/user-attachments/assets/201132dc-53e2-4b5f-801e-ce5e7c284b6a" />

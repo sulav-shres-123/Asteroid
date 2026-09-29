@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 game_state.jsonl
+game_event.jsonl
 *.egg-info
 
 # Virtual environments
